@@ -9,7 +9,7 @@ const Header = () => {
         alignItems: "center",
       }}
     >
-      <h2>Je suis le header</h2>
+      <h2>Je suis le header 🚀</h2>
     </header>
   );
 };
