@@ -2,6 +2,7 @@ import "./App.css";
 
 //components
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <h1>Hello WorkShop Git Github</h1>
       <p>Lorem ipsum dolor sit amet consectetur</p>
       <p>Code édité depuis Github</p>
+      <Footer />
     </div>
   );
 }
