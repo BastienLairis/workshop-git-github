@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <h1>Hello WorkShop Git Github</h1>
+      <p>Lorem ipsum dolor sit amet consectetur</p>
     </div>
   );
 }
