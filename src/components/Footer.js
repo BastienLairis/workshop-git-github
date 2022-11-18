@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer>Bonjour, je suis le footer / updated by bastien 🥸🥸🥸🥸🥸</footer>
+    <footer>Bonjour, je suis le footer / updated by bastien 🥸🥸🥸🥸🥸 and  updated by Tom 😎</footer>
   );
 };
 
